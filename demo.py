@@ -1,2 +1,1 @@
-print('hello')
-print("Modified")
+print("enter a number: ")
