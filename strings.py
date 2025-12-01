@@ -35,3 +35,6 @@ print(c)
 #for gap purpose use " "
 d=a+" "+b
 print(d)
+#format strings
+age=20
+print(f"My name is Anush, I'm {age} Old!")
