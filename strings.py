@@ -16,3 +16,8 @@ print(b[-3:])
 s = "abcdefghij"
 print(s[0:10:2])
 print(s[::3])
+#string reverse by step value
+print(s[::-1])
+#emptystring
+print(s[5:2])
+print(s[1:1])
