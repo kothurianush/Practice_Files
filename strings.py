@@ -21,3 +21,10 @@ print(s[::-1])
 #emptystring
 print(s[5:2])
 print(s[1:1])
+#upper and lower
+a=" Hey, Boomer! "
+print(a.lower())
+print(a.upper())
+print(a.strip())
+print(a.replace('H','B'))
+print(a.split(","))
