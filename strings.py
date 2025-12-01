@@ -28,3 +28,11 @@ print(a.upper())
 print(a.strip())
 print(a.replace('H','B'))
 print(a.split(","))
+#concatination
+a="Hey"
+b="Siri!"
+c=a+b
+print(c)
+#for gap purpose use " "
+d=a+" "+b
+print(d)
