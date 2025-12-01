@@ -1,5 +1,4 @@
-#Strings
-#1.Indexing
+#Indexing
 b="hello, world!"
 print(len(b))
 print(b[7])
